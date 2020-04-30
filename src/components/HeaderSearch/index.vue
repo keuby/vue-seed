@@ -18,8 +18,7 @@
 </template>
 
 <script>
-// fuse is a lightweight fuzzy-search module
-// make search results more in line with expectations
+// fuse 是一个轻量级的模糊搜索模块， 可以使搜索结果更符合期望
 import Fuse from 'fuse.js'
 import path from 'path'
 import { routes } from '@/router'
